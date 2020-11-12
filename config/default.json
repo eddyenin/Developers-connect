@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://eddy123:eddy123@devconnect.lukg5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "b78937313586813ade6c",
+    "githubSecret": "cf03a38e245db03a35b80d61e7383736991365db"
+}
