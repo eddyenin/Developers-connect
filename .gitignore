@@ -1,8 +1,8 @@
 node_modules/
 
-/middleware/auth
+middleware/*
 
-/config/
+config/*
 
 
 
